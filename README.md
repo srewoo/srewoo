@@ -70,11 +70,11 @@ I build small, focused tools that take the drudgery out of testing and shipping 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srewoo&theme=github" width="100%" />
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=srewoo&hide_border=true" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srewoo&theme=github" height="170" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" width="49%" />
 </p>
 
 ---
